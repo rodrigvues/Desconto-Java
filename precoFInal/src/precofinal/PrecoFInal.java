@@ -1,7 +1,7 @@
 package precofinal;
 import java.util.Scanner;
 
-// Escreva um programa em Java para calcular o preço final de um produto com desconto
+// Escreva um programa em Java para calcular o preço final de um produto com o desconto
 public class PrecoFInal {
     public static void main(String[] args) {
         double preco, precoFinal;
