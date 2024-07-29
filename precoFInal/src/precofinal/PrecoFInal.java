@@ -15,7 +15,7 @@ public class PrecoFInal {
 
             // Se o valor do produto for superior a R$ 100, aplique um 
             // desconto de 15% ao produto
-            // Caso contrário, se o valor do produto estiver entre R$ 50 e R$ 100, aplique um desconto de 10%
+            // Caso contrário, se o valor do produto estiver entre R$50 e R$ 100, aplique um desconto de 10%
             // Se o valor do produto for inferior a R$ 50, não aplique desconto
 
             if (preco >= 100) {
