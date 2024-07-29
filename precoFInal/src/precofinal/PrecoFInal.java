@@ -28,7 +28,7 @@ public class PrecoFInal {
                 precoFinal = preco;
             }
 
-            // Exiba na tela o preço final do produto após o desconto
+            // Exibe na tela o preço final do produto após o desconto
             System.out.println("Preço Final : "+precoFinal);
 
             System.out.println("Deseja informar outro produto? (S/N) ");
