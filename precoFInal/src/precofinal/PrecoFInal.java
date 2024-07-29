@@ -10,7 +10,7 @@ public class PrecoFInal {
         Scanner leia = new Scanner(System.in);
         
         while(fimProg == 'S'){ 
-            // Solicite ao usuário que insira o valor original do produto. 
+            // Solicite ao usuário que insira o valor original do produto
             System.out.println("Informe o preço do produto : ");
             preco = leia.nextDouble();
 
